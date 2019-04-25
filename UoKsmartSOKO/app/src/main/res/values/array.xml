@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="topcategores">
+        <item>Select category</item>
+        <item>Phones and Tablets</item>
+        <item>Electronics</item>
+        <item>Computers</item>
+        <item>Households</item>
+        <item>Others</item>
+    </string-array>
+</resources>

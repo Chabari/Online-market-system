@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">UoK smartSOKO</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="terms">If you continue you are accepting UoK smartSOKO Terms of Service and Privacy Policy.</string>
+    <string name="password">Enter Password</string>
+    <string name="email">Enter E-mail</string>
+    <string name="to_login">Already Registered? Login here.</string>
+    <string name="join_now">JOIN NOW!</string>
+    <string name="login">Login</string>
+    <string name="to_signUp">Not have an account? Sign Up here.</string>
+    <string name="activity3_name">Sign Up</string>
+    <string name="activity2_name">Sign In</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menuLogout">Logout</string>
+    <string name="title_activity_upload">Upload</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

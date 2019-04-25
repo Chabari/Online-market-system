@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "783778107186",
+    "firebase_url": "https://uok-smartsoko-5879b.firebaseio.com",
+    "project_id": "uok-smartsoko-5879b",
+    "storage_bucket": "uok-smartsoko-5879b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783778107186:android:448182b652284eeb",
+        "android_client_info": {
+          "package_name": "com.example.uoksmartsoko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783778107186-1jmhq6r3ba9jpq5ucvu441kf4dvh3ojq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uoksmartsoko",
+            "certificate_hash": "35f5f1ff65c04ab55fda67c83e64270caf1cd9f8"
+          }
+        },
+        {
+          "client_id": "783778107186-jgpoo1kvhb4c0iun1pmdbpgrgcud8esj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6dVwGo2OQm-6dBb1wac076tMR2SHeYI0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783778107186-jgpoo1kvhb4c0iun1pmdbpgrgcud8esj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
